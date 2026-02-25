@@ -1,2 +1,2 @@
 # practice5
-this practice repo
+this practice repository
